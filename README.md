@@ -30,6 +30,9 @@ Celem projektu jest napisanie gry dwuwymiarowej-sieciowej (multiplayer), zręczn
     • Dwa rodzaje tekstur i animacji dla statków
     • Wizualne różnice między pociskami o różnych dziłaniach
     • Dzwięki strzału, obrotu działka, braku naboi, uleczenia, kolizji, zadania obrażeń przeciwnikowi!
+     
+https://user-images.githubusercontent.com/87263429/167859138-58033bd2-e385-404c-bed7-6e6ffbd69b5a.mov
+
 ![graf](https://user-images.githubusercontent.com/87263429/167850917-6531a9dd-7f9d-412e-9a02-2bcbb0a47a21.png)
 
 ![graf2](https://user-images.githubusercontent.com/87263429/167850932-26e4e705-a15f-4ce4-95b9-ecd8b7a1911d.png)
